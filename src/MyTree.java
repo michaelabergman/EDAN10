@@ -1,7 +1,9 @@
 package tree;
 
 import tree.MyNode;
+//Change for pull
 
+//Did we get a fast-forward?
 /**
  * This is a binary search tree. The tree holds integer valued nodes.
  *
@@ -17,6 +19,11 @@ public class MyTree {
    * Class constructor.
    */
   public EllenTree() {
+
+  }
+
+  public MichaelaTree() {
+
   }
 
   /**
