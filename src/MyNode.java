@@ -16,6 +16,7 @@ public class MyNode {
   private MyNode right;
   private int value;
   private int michaela;
+  private int pullWithoutCommit;
 
 
   /**
